@@ -2,10 +2,10 @@
   "name": "mimino",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://acvetochka.github.io/mimino",
+  "homepage": "https://Basiu1.github.io/MiminoTeamProject",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /mimino/"
+    "build": "parcel build src/*.html --public-url /MiminoTeamProject/"
   },
   "repository": {
     "type": "git",
